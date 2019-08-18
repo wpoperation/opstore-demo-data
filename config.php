@@ -56,17 +56,17 @@
               ),
               array(
                 'slug'    => 'yith-woocommerce-wishlist',
-                'init'    => 'yith-woocommerce-wishlist/yith-woocommerce-wishlist.php',
+                'init'    => 'yith-woocommerce-wishlist/init.php',
                 'name'    => 'YITH WooCommerce Wishlist',
               ),
               array(
                 'slug'    => 'yith-woocommerce-quick-view',
-                'init'    => 'yith-woocommerce-quick-view/yith-woocommerce-quick-view.php',
+                'init'    => 'yith-woocommerce-quick-view/init.php',
                 'name'    => 'YITH WooCommerce Quick View',
               ),              
               array(
                 'slug'    => 'yith-woocommerce-compare',
-                'init'    => 'yith-woocommerce-compare/yith-woocommerce-compare.php',
+                'init'    => 'yith-woocommerce-compare/init.php',
                 'name'    => 'YITH WooCommerce Compare',
               ),
               array(
@@ -139,17 +139,17 @@
               ),
               array(
                 'slug'    => 'yith-woocommerce-wishlist',
-                'init'    => 'yith-woocommerce-wishlist/yith-woocommerce-wishlist.php',
+                'init'    => 'yith-woocommerce-wishlist/init.php',
                 'name'    => 'YITH WooCommerce Wishlist',
               ),
               array(
                 'slug'    => 'yith-woocommerce-quick-view',
-                'init'    => 'yith-woocommerce-quick-view/yith-woocommerce-quick-view.php',
+                'init'    => 'yith-woocommerce-quick-view/init.php',
                 'name'    => 'YITH WooCommerce Quick View',
               ),              
               array(
                 'slug'    => 'yith-woocommerce-compare',
-                'init'    => 'yith-woocommerce-compare/yith-woocommerce-compare.php',
+                'init'    => 'yith-woocommerce-compare/init.php',
                 'name'    => 'YITH WooCommerce Compare',
               ),
               array(
@@ -216,17 +216,17 @@
               ),
               array(
                 'slug'    => 'yith-woocommerce-wishlist',
-                'init'    => 'yith-woocommerce-wishlist/yith-woocommerce-wishlist.php',
+                'init'    => 'yith-woocommerce-wishlist/init.php',
                 'name'    => 'YITH WooCommerce Wishlist',
               ),
               array(
                 'slug'    => 'yith-woocommerce-quick-view',
-                'init'    => 'yith-woocommerce-quick-view/yith-woocommerce-quick-view.php',
+                'init'    => 'yith-woocommerce-quick-view/init.php',
                 'name'    => 'YITH WooCommerce Quick View',
               ),              
               array(
                 'slug'    => 'yith-woocommerce-compare',
-                'init'    => 'yith-woocommerce-compare/yith-woocommerce-compare.php',
+                'init'    => 'yith-woocommerce-compare/init.php',
                 'name'    => 'YITH WooCommerce Compare',
               ),
               array(
@@ -300,17 +300,17 @@
               ),
               array(
                 'slug'    => 'yith-woocommerce-wishlist',
-                'init'    => 'yith-woocommerce-wishlist/yith-woocommerce-wishlist.php',
+                'init'    => 'yith-woocommerce-wishlist/init.php',
                 'name'    => 'YITH WooCommerce Wishlist',
               ),
               array(
                 'slug'    => 'yith-woocommerce-quick-view',
-                'init'    => 'yith-woocommerce-quick-view/yith-woocommerce-quick-view.php',
+                'init'    => 'yith-woocommerce-quick-view/init.php',
                 'name'    => 'YITH WooCommerce Quick View',
               ),              
               array(
                 'slug'    => 'yith-woocommerce-compare',
-                'init'    => 'yith-woocommerce-compare/yith-woocommerce-compare.php',
+                'init'    => 'yith-woocommerce-compare/init.php',
                 'name'    => 'YITH WooCommerce Compare',
               ),
               array(
@@ -383,17 +383,17 @@
               ),
               array(
                 'slug'    => 'yith-woocommerce-wishlist',
-                'init'    => 'yith-woocommerce-wishlist/yith-woocommerce-wishlist.php',
+                'init'    => 'yith-woocommerce-wishlist/init.php',
                 'name'    => 'YITH WooCommerce Wishlist',
               ),
               array(
                 'slug'    => 'yith-woocommerce-quick-view',
-                'init'    => 'yith-woocommerce-quick-view/yith-woocommerce-quick-view.php',
+                'init'    => 'yith-woocommerce-quick-view/init.php',
                 'name'    => 'YITH WooCommerce Quick View',
               ),              
               array(
                 'slug'    => 'yith-woocommerce-compare',
-                'init'    => 'yith-woocommerce-compare/yith-woocommerce-compare.php',
+                'init'    => 'yith-woocommerce-compare/init.php',
                 'name'    => 'YITH WooCommerce Compare',
               ),
               array(
